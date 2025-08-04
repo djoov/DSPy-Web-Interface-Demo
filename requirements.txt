@@ -1,0 +1,4 @@
+flask==3.0.2
+requests==2.31.0
+pydantic==2.6.4
+dspy-ai>=2.4.0
